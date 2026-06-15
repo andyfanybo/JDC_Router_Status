@@ -65,10 +65,6 @@ http://192.168.68.1/cgi-bin/status.cgi
 | NSS 加速统计 | `/sys/kernel/debug/ecm/ecm_db/` |
 | 运行时长 | `/proc/uptime` |
 
-## 截图
-
-![状态监控页面](status.png)
-
 ## 许可证
 
 MIT License
