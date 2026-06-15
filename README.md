@@ -4,6 +4,8 @@
 
 基于 OpenWrt 系统，通过 Web 页面实时展示路由器的 CPU 温度、WiFi 芯片温度、内存使用率、网络速率、NSS 硬件加速状态等信息。
 
+<img width="2543" height="1440" alt="status" src="https://github.com/user-attachments/assets/63740917-7e9f-427b-86a9-9246335de35f" />
+
 ## 功能特性
 
 - 🌡️ **温度监控**：CPU 核心温度、2.4G / 5.2G / 5.8G 三频 WiFi 芯片温度
